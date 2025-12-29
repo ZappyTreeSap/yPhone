@@ -16,12 +16,12 @@ You have two choices:
 
 ## Features
 
-- ✨ **Automatic launch** - Opens every time you unlock your phone
-- 🤔 **Mindful reflection** - Encourages you to think before using your phone
-- 🎯 **Simple choices** - Just two options to choose from
-- ⏱️ **Smart timing** - Won't spam you (minimum 1 minute between prompts)
-- 🎨 **Beautiful UI** - Modern Material Design interface
-- 🔄 **Auto-close** - Closes automatically after 5 seconds
+- **Automatic launch** - Opens every time you unlock your phone
+- **Mindful reflection** - Encourages you to think before using your phone
+- **Simple choices** - Just two options to choose from
+- **Smart timing** - Won't spam you (minimum 1 minute between prompts)
+- **Beautiful UI** - Modern Material Design interface
+- **Auto-close** - Closes automatically after 5 seconds
 
 ## How it works
 
@@ -67,12 +67,10 @@ You can easily customize:
 
 This app:
 
-- ✅ Works completely offline
-- ✅ Stores only the last prompt timestamp locally
-- ✅ No data collection or analytics
-- ✅ No network permissions
-- ✅ Open source - you can verify the code
+- Works completely offline
+- Stores only the last prompt timestamp locally
+- No data collection or analytics
+- No network permissions
+- Open source - you can verify the code
 
 ---
-
-*Made with ❤️ to encourage mindful phone usage*
