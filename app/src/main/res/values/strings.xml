@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">yPhone - Mindful Usage</string>
+    <string name="welcome_title">Welcome to yPhone</string>
+    <string name="welcome_subtitle">Your mindful phone companion</string>
+    <string name="question_title">Why did you open your phone?</string>
+    <string name="question_subtitle">Take a moment to reflect...</string>
+    <string name="answer_for_reason">For a reason</string>
+    <string name="answer_no_reason">For no reason</string>
+    <string name="response_good_luck">Good luck!</string>
+    <string name="response_good_luck_message">You have a purpose. Make the most of your time!</string>
+    <string name="response_consider">Consider this...</string>
+    <string name="response_consider_message">Maybe it\'s time to turn off your phone and busy yourself with something meaningful.</string>
+    <string name="response_suggestions">Try reading, exercising, calling a friend, or learning something new!</string>
+</resources>
